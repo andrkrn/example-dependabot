@@ -1,0 +1,11 @@
+{
+  "name": "example-dependabot",
+  "version": "1.0.0",
+  "description": "example using dependabot",
+  "main": "index.js",
+  "author": "andrkrn",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.16.0"
+  }
+}
